@@ -1,0 +1,195 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home1/BRN51/vikashK/SV_COUNTERPROJECT/tb
+T_opt
+!s11d mod12counter_sv_unit /home1/BRN51/vikashK/SV_COUNTERPROJECT/tb/work 1 count_if 1 /home1/BRN51/vikashK/SV_COUNTERPROJECT/tb/work 
+!s110 1733505494
+V;6i`@SEVmCGl3dYdILcAH1
+04 20 4 work mod12counter_sv_unit fast 0
+04 3 4 work top fast 0
+=1-000ae431a4f1-675331d5-d9746-36f0d3
+R0
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+OE;O;2022.1;75
+Ycount_if
+Z3 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z4 DXx4 work 13 counter_trans 0 22 :ALgCiZY`0mZKQknXA:la1
+Z5 DXx4 work 20 mod12counter_sv_unit 0 22 9KRQ6WMoX25JXGJnfLh[;3
+Z6 !s110 1733505492
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 eDmda<UX^aOFj@?[T:jBo0
+I@Akh?Cgb[SKDeIcS^2JT40
+Z8 !s105 mod12counter_sv_unit
+S1
+R1
+Z9 w1733505489
+Z10 8mod12counter.sv
+Z11 Fmod12counter.sv
+!i122 19
+L0 45 0
+Z12 OE;L;2022.1;75
+31
+Z13 !s108 1733505492.000000
+Z14 !s107 mod12counter.sv|
+Z15 !s90 mod12counter.sv|
+!i113 0
+Z16 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vcounter
+R3
+R4
+R5
+R6
+R7
+r1
+!s85 0
+!i10b 1
+!s100 [1l]PCYA4BHgaX2GLlS1M1
+IniFQOEVk`2O2GjF;lN0:;2
+R8
+S1
+R1
+R9
+R10
+R11
+!i122 19
+L0 10 31
+R12
+31
+R13
+R14
+R15
+!i113 0
+R16
+R2
+Ycounter_if
+R8
+DXx4 work 20 mod12counter_sv_unit 0 22 BaE5R?64g:2Ib<9E7z>CM2
+R3
+!s110 1733505151
+!i10b 1
+!s100 o81CP@cLd[bz<FKcc=an[3
+I:<:Y?[m`Jm^]l12>5`XlA0
+S1
+R1
+w1733504924
+R10
+R11
+!i122 18
+L0 29 0
+R7
+R12
+r1
+!s85 0
+31
+!s108 1733505151.000000
+R14
+R15
+!i113 0
+R16
+R2
+Xcounter_trans
+R3
+R6
+!i10b 1
+!s100 _iiBUzgBIzOR79bEe5l4W3
+I:ALgCiZY`0mZKQknXA:la1
+S1
+R1
+R9
+R10
+R11
+!i122 19
+L0 3 0
+V:ALgCiZY`0mZKQknXA:la1
+R12
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 0
+R16
+R2
+Xmod12counter_sv_unit
+!s115 count_if
+R3
+R4
+R6
+V9KRQ6WMoX25JXGJnfLh[;3
+r1
+!s85 0
+!i10b 1
+!s100 ZOGJfF80bbIjhafGE6>9Z1
+I9KRQ6WMoX25JXGJnfLh[;3
+!i103 1
+S1
+R1
+R9
+R10
+R11
+!i122 19
+L0 7 0
+R12
+31
+R13
+R14
+R15
+!i113 0
+R16
+R2
+vtop
+R3
+R4
+R5
+R6
+R7
+r1
+!s85 0
+!i10b 1
+!s100 HIMSJM:R5C4;7[[>]>4>O0
+IMnIU8]Z;29KU:iiWfkXJO1
+R8
+S1
+R1
+R9
+R10
+R11
+!i122 19
+L0 513 20
+R12
+31
+R13
+R14
+R15
+!i113 0
+R16
+R2
